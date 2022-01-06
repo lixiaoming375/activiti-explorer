@@ -11,7 +11,7 @@
   <properties>
     <spring.version>4.3.5.RELEASE</spring.version>
     <activiti.version>5.22.0</activiti.version>
-    <batik.version>1.7</batik.version>
+    <batik.version>1.14</batik.version>
     <java.version>1.8</java.version>
     <jdbc.driver.groupId>mysql</jdbc.driver.groupId>
     <jdbc.driver.artifactId>mysql-connector-java</jdbc.driver.artifactId>
